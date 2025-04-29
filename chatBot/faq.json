@@ -1,0 +1,27 @@
+[
+    {
+      "question": "What are the college timings?",
+      "answer": "Our college operates from 9 AM to 4 PM, Monday to Saturday."
+    },
+    {
+      "question": "How can I get my ID card?",
+      "answer": "You can collect your ID card from the admin office during lunch hours."
+    },
+    {
+      "question": "Who is the head of the Computer Science department?",
+      "answer": "Dr. Suresh Kumar is the current HOD of the Computer Science department."
+    },
+    {
+      "question": "Where is college is located ?",
+      "answer": "In Ichalkarnji"
+    },
+    {
+      "question": "How many departments are there?",
+      "answer": "There are 8 different departments"
+    },
+    {
+      "question": "Give me the list of departments?",
+      "answer": "Here are the departments available:<ul><li>Textile</li><li>Computer Science</li><li>Mechanical</li><li>Civil</li><li>Electrical</li><li>Artificial Intelligence and Data Science</li></ul>"
+    }
+  ]
+  
